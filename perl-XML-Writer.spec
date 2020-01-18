@@ -1,6 +1,6 @@
 Name:           perl-XML-Writer
 Version:        0.623
-Release:        3%{?dist}
+Release:        2%{?dist}
 Summary:        A simple Perl module for writing XML documents
 
 Group:          Development/Libraries
@@ -66,9 +66,6 @@ make test
 
 
 %changelog
-* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.623-3
-- Mass rebuild 2013-12-27
-
 * Wed Jul 03 2013 Jitka Plesnikova <jplesnik@redhat.com> - 0.623-2
 - Change license to CC0
 
